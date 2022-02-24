@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last letters, to the London-merchants and faithful ministers concerning the further proceedings of the conversion and restauration of the Jews with most strange and wonderful miracles performed by the holy captain general of the wandring Israelites, a prophecie touching the downfall of Babylon in 66, and the time of the Gospel to be preach'd throughout the whole world, the number of their great armies, a description of their persons, habits, and weapons, the routing of the King of Arabia, and killing many thousand Turks, and the fearful dream of the Turkish Emperour, worthy of observation by all good Christians.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49635</idno>
+            <idno type="STC">Wing L489</idno>
+            <idno type="STC">ESTC R5552</idno>
+            <idno type="EEBO-CITATION">12526440</idno>
+            <idno type="OCLC">ocm 12526440</idno>
+            <idno type="VID">62671</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49635)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62671)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 638:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last letters, to the London-merchants and faithful ministers concerning the further proceedings of the conversion and restauration of the Jews with most strange and wonderful miracles performed by the holy captain general of the wandring Israelites, a prophecie touching the downfall of Babylon in 66, and the time of the Gospel to be preach'd throughout the whole world, the number of their great armies, a description of their persons, habits, and weapons, the routing of the King of Arabia, and killing many thousand Turks, and the fearful dream of the Turkish Emperour, worthy of observation by all good Christians.</title>
+                  <author>Serrurier, Petrus.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted for G. Cotton,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1: The last letters from Dr. Serarias, and the city of Jerusalem, concerning the further proceedings of the Jews, in order to their conversion.</note>
+                  <note>Published again as "The Jewes message to their brethren in Holland", 1665, with the addition of "A new letter sent from Scotland". Most of the text (p. 1, line 7 to p. 6, line 16) is of the same setting in both editions, though the page divisions differ.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62671:1"/>
+            <pb facs="tcp:62671:1" rendition="simple:additions"/>
+            <p>The Laſt LETTERS, To the London-Merchants AND Faithful Miniſters CONCERNING The further Proceedings of the Con<g ref="char:EOLhyphen"/>verſion and Reſtauration of the <hi>Jews;</hi> With moſt ſtrange and wonderful Miracles performed by the Holy Captain-General of the <hi>Wa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing-Iſraelites;</hi> A Prophecie touching the Down<g ref="char:EOLhyphen"/>fall of <hi>Babylon</hi> in 66, and the time of the Goſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l to be Preach'd throughout the whole World; The Number of their Great Armies; A Deſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<g ref="char:EOLhyphen"/>ption of their Perſons, Habits, and We<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pons; the <hi>routing</hi> of the <hi>King</hi> of <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>abia,</hi> and <hi>killing</hi> many thouſand <hi>Tu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks.</hi> And the fearful Dream of the Turkiſh Emperour, worthy of Obſervation by all <hi>good</hi> Chriſtians.</p>
+            <p>Imprinted for G. Cotton, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:62671:2"/>
+                  <pb n="1" facs="tcp:62671:2"/>
+                  <head>The laſt Let<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers from Dr. Serarias, and the City of Jeruſalem, concerning the further Proceedings of the Jews, in order to their Converſion:</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">Y</seg>Ours I have received, and was glad of that Return of Your Love: In part of Retalianation I ſhall communicate the further Proceedings and Ratlings of the Houſe of Iſrael: For ſince my laſt. We have had ſeveral Expreſſes not onely from <hi>Jeru<g ref="char:EOLhyphen"/>ſalem,</hi> but <hi>Tun<gap reason="illegible" extent="3+ letters">
+                           <desc>•••…</desc>
+                        </gap>
+                     </hi> alſo; That this Year no Carrivan is to go to <hi>Mecha,</hi> by reaſon the City is beſie<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed by the <hi>Iſraelite<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> who appear in great Numbers, and are ſaid to be ſent by the Ten Tribes to be the Fore-runners:
+<pb n="2" facs="tcp:62671:3"/>From <hi>Jeruſalem</hi> we have received very good News, and likewiſe many of our Chriſtian Mercha ts have received the like from <hi>Alexandria,</hi> The Particulars of which is, that the Baſhaw or <hi>Alexandria,</hi> with the King of <hi>Arabia,</hi> made uſe of a Carravan, that is, an Army of Sixty Thouſand Men, and marched toward <hi>Mecha,</hi> and being within one days Iourney of the Ci<g ref="char:EOLhyphen"/>tie, ſent out a Troop to take notice how things were, which Troop having ſeen this People lying in Tents about the Citie<g ref="char:punc">▪</g> and hearing that they profeſt them<g ref="char:EOLhyphen"/>ſelves to be <hi>Iſraelites<g ref="char:punc">▪</g>
+                     </hi> reported this to the Baſhaw, who for all that reſolved to march on with his Forces, and coming within ſight of the City, diſcovered an innu<g ref="char:EOLhyphen"/>merable Multitude of People coming out of their Tents. Whereupon the Turks advanced up againſt them, gave fire, &amp; diſcharged ſeveral Volleys of round ſhot; but after a little fighting a pannick fear took them and terror ſeized on them, making them cry out, <hi>Who is able to fight with theſe People, ſeeing our Arrows and Shot return back upon our ſelves.</hi> So the Turks lea<g ref="char:EOLhyphen"/>ving off fighting, returned Home, and the Iſraelites unto their Tents without purſuing them. This Af<g ref="char:EOLhyphen"/>front cauſed the Baſhaw and King of the Moors, tho<g ref="char:EOLhyphen"/>row out all Egypt and Arabia, to impoſe on the Iews in all their Dominions, a new Tax five times greater then it was before. And the Baſhaw, the better to in<g ref="char:EOLhyphen"/>form himſelf what this People were ſent ten Iews to them who found them to be Iſraelites, and that they ſpake <hi>Hebrew,</hi> ſaying, they were ſent before to remain at <hi>Meka</hi> till the reſt of their Brethren came, for that the time was now come, that they ſhould return unto their own Land of their Fore-Fathers, which others
+<pb n="3" facs="tcp:62671:3"/>had uſurped and taken from them. Another Letter ſaith that the Commander of <hi>Meka</hi> ſent 4 Troops to oppoſe them, but not one returned, and that divers Ca<g ref="char:EOLhyphen"/>ravans and great Bodies have bin wholly defeated by the ſaid <hi>Iſraelites;</hi> and that twelve thouſand Turks coming from a City called <hi>Metai,</hi> near <hi>Meka,</hi> were alſo routed, and eight thouſand ſlain upon the Place, their own Swords and Muskets turning againſt themſelves. Of the ten Iews that were ſent ſir re<g ref="char:EOLhyphen"/>mained with their Brethren, and but 4 returned to the Turks. As for the great Prophet in <hi>North. Skilton,</hi> Doctor <hi>Colloneſt</hi> hath bin at his Houſe in a Town called <hi>Long-Ditch,</hi> where he heard theſe things out of his own Mouth, That in the Year, 1661. he medi<g ref="char:EOLhyphen"/>tated on the Scriptures ſpeaking of the <hi>Latter Times;</hi> as <hi>Math. 2<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. Eſay 24. Jer. 50. Ezek. 28. Dan.</hi> 7. It hapned that he being awake in his Bed near Morning he heard a diſtinct Voice telling him, that <hi>Babylon</hi> was to fall in 66. and that at Midnight even as it hapned to <hi>Beltſhazer;</hi> and that Her Fall would cauſe ſuch a Terror and Conſternation to fall upon Men, that from that time until 70, there would be a ſtand in Divine Worſhip, and many Iudgments would fall on di<g ref="char:EOLhyphen"/>vers Cities and Towns, whereof ſome would ſudden<g ref="char:EOLhyphen"/>ly be ſwallowed up and <hi>Long-Ditch</hi> ruined, and few eſcape; yet notwithſtanding he hath no freedom to re<g ref="char:EOLhyphen"/>turn. But in the Year 71. there will be ſome Meet<g ref="char:EOLhyphen"/>ings again though no Communion held all that time, onely a beginning of Practiſe: But in 72, there will be a full Communion and Reſtitution of the Apoſtoli<g ref="char:EOLhyphen"/>cal Worſhip, And then will the Goſpel be preached throughout the whole World.</p>
+               </body>
+            </floatingText>
+            <p>This is the ſubſtance of a Letter ſent to Doctor <hi>Homes.</hi>
+            </p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:62671:4"/>
+                  <head>From <hi>Saley</hi> in <hi>Barbary,</hi> Auguſt 16. 1665.</head>
+                  <opener>
+                     <salute>Worthy Sir,</salute>
+                  </opener>
+                  <p>THE Tidings of the 15. of <hi>July,</hi> concerning the March of our Brethren, the <hi>Ten Tribes</hi> of <hi>Iſrael,</hi> i<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> now from ſeveral places confirmed to Us, all <hi>Things</hi> be<g ref="char:EOLhyphen"/>ing ſo full of wonder, that for ſ<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e few days we cou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d ſcarcely b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lieve, or give credit to it, from the City of <hi>Sus,</hi> otherwiſe called <hi>Sama-Crew.</hi> But now We have certain Information, that they are on the ſide of the Deſart, and move from ſeveral places to the ſaid Deſart Go<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h of <hi>Mo<g ref="char:EOLhyphen"/>rocco<g ref="char:punc">▪</g>
+                     </hi> being not ar from <hi>Cape de Ver,</hi> but more within th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Land. And they appear daily more and more in great Multitudes, having ſuddenly and unep<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctedly manife<g ref="char:EOLhyphen"/>ſted themſelves, covering a vaſt <hi>Tract</hi> of Ground, and conſiſting of about eight thouſand Companies or <hi>Troops,</hi> each of which containing from one hundred to a thou<g ref="char:EOLhyphen"/>ſand Men.</p>
+                  <p>They who went thither to ſee and enquire who they were, found them to be Strangers, and an unknown People, whoſe Language they underſtood not, onely ſome few of their Commanders ſpeak <hi>Hebrew.</hi> Their Arms are Swords, Bows, Arrow<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and L<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nces, each Man being well armed therewith, but no Guns at all. They have for their Chief Leader, or Captain, a <hi>Holy M<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n</hi> who underſtandeth all Languages, and marcheth before them, doing Miracles.</p>
+                  <p>Theſe, with ſeveral of their Actions, were all related to me by a Convert Rabby, who has been diſcourſing a<g ref="char:EOLhyphen"/>mongſt them and hath affirmed it by an Oath, upon the <hi>Book of the Law.</hi>
+                  </p>
+                  <pb n="5" facs="tcp:62671:4"/>
+                  <p> But in Confirmation of all which, here are now arri<g ref="char:EOLhyphen"/>ved ſeveral Gentlemen of good repute and Credit, who relate, paſſing by the Places above-mentioned, That they underſtood the ſame <hi>Things,</hi> which the <hi>Rabby</hi> and others, who had ſeen them before, had related, and many <hi>Things</hi> more; amongſt the reſt, that this unknown People were come from the Mountainous Countreys in the Wilder<g ref="char:EOLhyphen"/>neſs, and were advanced as far as <hi>Mecha<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>as.</hi> There is a certain Jew in the City of <hi>Sus,</hi> who hath teſtified and declared, that he hath ſeen the People called <hi>Iſraelites,</hi> and going amongſt them, diſcourſed with many of their Commanders in <hi>He<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rew,</hi> but underſtood not the Language of the great Multitude: yet withall heard of other <hi>Jews</hi> that ſeveral of them ſpake the <hi>Holy Tongue;</hi> and that who<g ref="char:EOLhyphen"/>ſoever goeth to contend with this People in Battel, are preſently vanquiſhed, and ſlain.</p>
+                  <p>They have already poſſeſt themſelves of ſeveral Pla<g ref="char:EOLhyphen"/>ces and Cities, putting all the Inhabitants to the Sword, the <hi>Jews</hi> onely excepted. They are a People of a middle ſtature, their Bodies comely, their Complexions fair: This Party ſaw no Woman amongſt them, nor any other Ar<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> beſides thoſe above-mentioned<g ref="char:punc">▪</g> their Horſes are many, their Attire blew, and their <hi>Tents</hi> black. From the aforeſaid City of <hi>Sus,</hi> the whole Hoſt of them might be plainly and diſtinctly viewed the whole Week, and might ſee their Fire<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and Smoak aſcending; but on the Sabbath, neither of both could be diſcerned throughout the whole Camp, or Hoſt.</p>
+                  <pb n="6" facs="tcp:62671:5"/>
+                  <p> Several of them being got up on a very high Sand, the Mountain where they are employed to dig is very deep in the ſaid Sand, where they expect to find a <hi>Brays Tam<g ref="char:EOLhyphen"/>ber;</hi> that is, a <hi>Trumpet,</hi> with the which they are to ſound 2 times, and then all Nations are to be gathered into one Univerſal Church. Their Leader is of an extraordinary diſcerning Spirit, and as ſoon as he ſees a man he knows his Mind, and what is in his Heart. It's ſaid, that coming to a great River not Foordable, he conſulted the paſſage, and the whole Army went to Prayers, imploring the moſt High, that as he was pleaſed to divide the Waters of the Red Sea for their Anceſtors and as the great Meſſias was born of a Virgin, ſo He would now ſhew ſome Sign thereof to them, to evince them of the <hi>Truth,</hi> by working of a Miracle; and 'tis ſaid, that as ſoon as they had ended prayer, the Waters divided, and the whole Army march<g ref="char:EOLhyphen"/>ed over. Great Signs now of a Converſion<g ref="char:punc">▪</g> and many ſignal Signs in the Heavens and on <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e Earth to teach Us the great Work of Redemption. A Meteor, like a Cob-Web, as if a Spider had ſpun it, fell in <hi>Norway,</hi> which co<g ref="char:EOLhyphen"/>vered the Fields, and killed the Corn, they were <gap reason="illegible" extent="2 words">
+                        <desc>〈◊◊〉</desc>
+                     </gap> in length, and as much in breadth. In <hi>Franconi<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> fell Hail<g ref="char:EOLhyphen"/>ſtones of a pound and a half weight. And in <hi>B<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rd<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ<gap reason="illegible" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </hi> to be ſeen on a Mount a huge Stone, which 8 horſes were not able to ſtir, this Stone lay deep in a Ditch, and came up of it ſelf out of the ground, and bare it ſelf <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0 Cubits in height. This ſeems as ſtrange to ſome, as the Great <hi>Turks</hi> Dream did to himſelf<g ref="char:punc">▪</g> which was, <hi>That a <hi>Jew</hi> had taken the Crown from his Hevd:</hi> Which poſſibly m<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y be accompliſhed in</p>
+               </body>
+            </floatingText>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
